@@ -1,5 +1,5 @@
 <h1 text-align="center">Ficha Prática 01 | Equipa de Desinvolvimento de Software</h1>
-<p>Link Principal: https://a14648-oficina.infinityfree.me/FP01/2I-REDES-M4-14648-FP01.html </p>
+<i>Link Principal: https://a14648-oficina.infinityfree.me/FP01/2I-REDES-M4-14648-FP01.html </i>
 <h2>O Que é esta Ficha Prática</h2>
 <p>
    Nesta Ficha, foi encarregado de criar este site de apresentação de Equipa, quase como um portefolio de trabalhos. Este projeto inclui tudo que um site com o preposito de exibir uma equipa precisa. 
