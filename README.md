@@ -11,6 +11,9 @@
  <p>  - Header com links que redirecionam para todas as páginas relevantes</p>
  <p>  - Página dedicada aos Trabalhos prévios e atuais da equipa, que essencialmente tem a função de portefólio de equipa</p>
  <p>  - Página de Contactos em que são exibidos</p>
-  <p>   - Localização do Centro da Equipa</p>
-  <p>   - Contacto Institucional da Equipa</p>
-  <p>   - Contacto Pessoal dos Membros constintuintes</p>
+<p>      - Localização do Centro da Equipa</p>
+<p>      - Contacto Institucional da Equipa</p>
+<p>      - Contacto Pessoal dos Membros constintuintes</p>
+<h2>
+   
+</h2>
